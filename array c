@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+    int age[5] = {10, 20, 30, 40, 50};
+        printf("%d",age[3]);
+    return 0;
+}
